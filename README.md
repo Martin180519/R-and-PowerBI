@@ -1,5 +1,7 @@
 # R-and-PowerBI
 
+Tools used - R(Rstudios and PowerBI)
+
 A number of steps in order to produce the final report using R and PowerBI in conjunction
 First step: R
 
