@@ -1,6 +1,6 @@
 # R-and-PowerBI
 
-As stated in the project notes we had to follow a number of steps in order to produce the final report using R and PowerBI in conjunction
+A number of steps in order to produce the final report using R and PowerBI in conjunction
 First step: R
 
 •	Initial Exploratory Analysis 
